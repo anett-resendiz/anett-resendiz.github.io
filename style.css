@@ -1,0 +1,76 @@
+*{
+    font-family: "Sour Gummy", sans-serif;
+}
+header{
+    background-color: #fe6763;
+}
+header a{
+    color: white;
+}
+.nav-item a{
+color: white;
+}
+
+#boton-perfil{
+background-color: #a2122f;
+}
+
+.nav-item a:hover{
+    color: #693726;
+}
+
+#app{
+    color:#80b3ff;
+}
+
+.boton-cv{
+    background-color:#80b3ff;
+    color: white;
+}
+/*.Habilidades{
+    background-color: #f4ead5;
+}*/
+
+
+.caja-habilidades{
+    background-color: #fe6763;
+    color: white;
+}
+
+.btn-proyecto{
+    background-color: #f4ead5;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+    color:#693726;
+}
+
+.card .card-title{
+    color: #80b3ff;
+}
+
+#Contacto{
+    background-color: #fe6763;
+    color:white;
+}
+
+#btn-contacto{
+    background-color: #80b3ff;
+    color:#693726;
+}
+
+#btn-contacto:hover{
+    background-color:#A888B5 ;
+}
+footer ul li a i{
+    color:royalblue;
+}
+footer p{
+    color:#a2122f;
+}
+footer p a{
+    text-decoration: none;
+    color: #0A5EB0;
+
+    }
