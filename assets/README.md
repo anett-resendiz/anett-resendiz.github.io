@@ -20,4 +20,17 @@ Hola! Soy ***Anett Michel Resendiz Ibañez*** soy desarroladora web Jr. Apaciona
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 ### Vista Previa
-![Proyecto](assets)  
+![Proyecto](/assets/CapturaPortafolio.png)  
+![Proyecto](/assets/CapturaPortafolio2.png)
+![Proyecto](/assets/CapturaPortafolio3.png)
+![Proyecto](/assets/CapturaPortafolio4.png)
+
+---------
+
+### *Espero pronto saber de ti*
+*Correo*
+[anettresendiz7@gmail.com](mailto:anettresendiz7@gmail.com)
+
+### Creado en el bootcamp de TecnolochicasPRO 💜
+[Tecnolochicas](https://tecnolochicas.mx)
+
